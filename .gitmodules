@@ -1,0 +1,6 @@
+[submodule "lib/noitabin"]
+	path = lib/noitabin
+	url = https://github.com/bakatrouble/libnoitabin.git
+[submodule "lib/args"]
+	path = lib/args
+	url = https://github.com/Taywee/args.git
